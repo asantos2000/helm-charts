@@ -25,4 +25,4 @@ asantos2000/mychart      0.1.0           1.0             A Helm chart for Kubern
 ```
 
 ## Hosted helm-charts
-* [mychart - Example](mychart.md)
+* [mychart - Example](https://github.com/asantos2000/mychart)
