@@ -1,11 +1,11 @@
-# Asantos Helm Charts Repo
+# asantos2000 - Helm Charts Repo
 
 ```bash
 # Rebuild index
 helm repo index .
 
 # Add repo
-helm repo add asantos2000 https://asantos2000.github.io/helm-charts/
+helm repo add asantos2000 https://asantos2000.github.io/helm-charts
 
 # Update
 helm repo update
@@ -22,7 +22,7 @@ helm search asantos2000
 NAME                            CHART VERSION   APP VERSION     DESCRIPTION
 asantos2000/mychart      0.1.0           1.0             A Helm chart for Kubernetes
 #
-
-# Install app
-helm install asantos2000/mychart
 ```
+
+## Charts help
+* [mychart - Example](mychart.md)
