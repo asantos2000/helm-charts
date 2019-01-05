@@ -87,4 +87,4 @@ as described [here](https://github.com/kubernetes/ingress-nginx/blob/master/docs
 ```bash
 helm install asantos2000/mychart --set extraArgs.v=2
 ```
-> **Tip**: You can use the default [values.yaml](values.yaml)
+> **Tip**: You can use the default [values.yaml](https://raw.githubusercontent.com/asantos2000/mychart/master/values.yaml)
